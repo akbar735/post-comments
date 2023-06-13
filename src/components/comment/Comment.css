@@ -1,0 +1,10 @@
+.comments-container {
+    text-align: left;
+    margin: 20px 0;
+    margin-left: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    min-height: 80px;
+    background-color: #fdfdfd;
+}

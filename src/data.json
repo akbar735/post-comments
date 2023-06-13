@@ -1,0 +1,36 @@
+{
+    "post": {
+        "message" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author" : "Md Ali Akbar",
+        "comments": [
+            {
+                "message" : "ABC 1",
+                "author": "user 1",
+                "replies": [
+                    {
+                        "message" : "reply 1",
+                        "author": "user11",
+                        "replies": [
+                            {
+                                "message": "reply 11",
+                                "author": "user12"
+                            }
+                        ]
+                    },
+                    {
+                        "message" : "reply 2",
+                        "author": "user12"
+                    }
+                ]
+            },
+            {
+                "message" : "ABC 2",
+                "author": "user 2"
+            },
+            {
+                "message" : "ABC 3",
+                "author": "user 2"
+            }
+        ]
+    }
+}
